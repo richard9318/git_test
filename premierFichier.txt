@@ -1,2 +1,7 @@
 test sur branch
+<<<<<<< HEAD
 
+=======
+la famille de mon papa
+Branche a supprimer sur git-hub/verification supression
+>>>>>>> 3c50464259758e49c2e8e1e37af863102faa6ea8
