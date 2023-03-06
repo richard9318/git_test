@@ -1,7 +1,19 @@
 test sur branch
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 =======
 la famille de mon papa
 Branche a supprimer sur git-hub/verification supression
 >>>>>>> 3c50464259758e49c2e8e1e37af863102faa6ea8
+=======
+<<<<<<< HEAD
+la famille de mon papa
+Branche a supprimer sur git-hub/verification supression
+=======
+la famille de mon papa
+>>>>>>> parent of f2ee0bc (fichier a reset sur git-hub)
+=======
+la famille de mon papa
+>>>>>>> parent of f2ee0bc (fichier a reset sur git-hub)
+>>>>>>> parent of caf5b6f (suppression-contenu)
