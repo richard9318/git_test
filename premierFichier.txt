@@ -17,3 +17,4 @@ la famille de mon papa
 la famille de mon papa
 >>>>>>> parent of f2ee0bc (fichier a reset sur git-hub)
 >>>>>>> parent of caf5b6f (suppression-contenu)
+Tout va pour le mieux
