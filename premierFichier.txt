@@ -1,11 +1,2 @@
 test sur branch
-<<<<<<< HEAD
-<<<<<<< HEAD
-la famille de mon papa
-Branche a supprimer sur git-hub/verification supression
-=======
-la famille de mon papa
->>>>>>> parent of f2ee0bc (fichier a reset sur git-hub)
-=======
-la famille de mon papa
->>>>>>> parent of f2ee0bc (fichier a reset sur git-hub)
+
